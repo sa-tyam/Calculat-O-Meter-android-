@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculat-O-meter</string>
+    <string name="max_number">Max Limit</string>
+    <string name="operator">select operator</string>
+    <string name="play_button">PLAY</string>
+    <string name="play_again_button">PLAY AGAIN</string>
+</resources>
